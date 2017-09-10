@@ -1,0 +1,4 @@
+Use Persistent Volume provisioning as described here:
+https://diffuse.cloud/2017/06/28/kubernetes-helm-on-raspberry-pi/
+Yaml can be found here:
+https://gist.githubusercontent.com/peterhuene/bf84349f576514699e8abfcf6a34e625/raw/94737286c0603be81efbc2d270d10057c105ad72/nfs.yaml
